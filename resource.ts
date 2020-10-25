@@ -7,7 +7,7 @@ bahasa.set("1",{
 });
 bahasa.set("2",{
     id:"2",
-    title:"Belajar Deno",
+    title:"DenoLand-Api",
     author:"Mafaza"
 });
 
